@@ -23,9 +23,6 @@ const onChangeItem = id => {
   const newTodos = [...todos];
   const todoIndex = newTodos.findIndex(todo => todo.id === id);
   newTodos[todoIndex].completed = !newTodos[todoIndex].completed;
-  if (!newTodos[todoIndex].completed) {
-    newTodos.splice(todoIndex, 1);
-  }
   setTodos(newTodos);
 };
 
