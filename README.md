@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+
+This is the screenshot of the application:
+
+<img width="1731" alt="todolist_Screenshot" src="https://user-images.githubusercontent.com/13212465/216844857-60c16a18-ede5-4ea2-9271-bbfdce22da41.png">
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
